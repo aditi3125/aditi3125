@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Aditi Kumari
-**Final-Year CSE Student || AI & Machine Learning Engineer || Software Developer from India**
+**Final-Year CSE Student ||Java Backend Developer || AI & Machine Learning Engineer || Software Developer from India**
 
 Email Me 👉 ✉️ **aditiengineer75@gmail.com**  
 *(Open for collaboration, projects, internships, or learning opportunities)* 😊😊
